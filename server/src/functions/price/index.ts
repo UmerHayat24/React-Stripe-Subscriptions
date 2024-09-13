@@ -1,0 +1,1 @@
+export { default as viewPrices } from './view-prices'
